@@ -9,7 +9,7 @@ study for features about iOS and Swift
 ## Algorithm
 
 ## Reference
-> 이 자리를 하단의 모든 분께 감사함을 전합니다.
+> 이 자리를 빌어 하단의 모든 분께 감사함을 전합니다.
 > 
 * Zedd: [ZeddiOS](https://zeddios.tistory.com/213) 
 * Yagom: [Yagom's blog](https://blog.yagom.net/)
