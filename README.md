@@ -14,4 +14,4 @@ study for features about iOS and Swift
 * Zedd: [ZeddiOS](https://zeddios.tistory.com/213) 
 * Yagom: [Yagom's blog](https://blog.yagom.net/)
 * Hyeongjun Oh
-* Bummo Gu
+* Bummo Koo [gbmKsquare](https://github.com/gbmksquare)
